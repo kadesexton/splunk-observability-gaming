@@ -3,6 +3,19 @@
 This guide outlines recommended dashboards for monitoring your gaming server environment using Splunk. It covers both server-side and in-game observability, including example panels, recommended searches, and setup tips.
 
 ---
+# Example Player-Side Dashboard
+
+
+
+![splunk-minecraft-(in-game)](https://github.com/user-attachments/assets/afc1b988-5618-4218-b7fb-8914cea1256e)
+
+
+
+
+
+
+
+---
 
 ## Table of Contents
 
